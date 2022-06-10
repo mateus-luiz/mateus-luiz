@@ -4,8 +4,8 @@
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-luiz&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&custom_title=Github Stats&hide=issues,contribs"/>
 </div>
-<div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-luiz&layout=compact&langs_count=7&theme=apprentice"/>
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-luiz&layout=default&langs_count=7&theme=apprentice"/>
 </div>
   
 ##

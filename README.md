@@ -31,6 +31,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/mateus-luiz/mateus-luiz/blob/output/github-contribution-grid-snake.svg)
+
 ### 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusl-dev" target="_blank">

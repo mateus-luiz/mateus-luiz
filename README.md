@@ -1,12 +1,9 @@
 
-## Olá eu sou Mateus Luiz
-- 🌱 Estou estudando javascript...
-- 😄 Pronomes: ele/dele
+<h1 align="center">Mateus Luiz - Front End Developer</h1>
 
 <div>
-  <a href="https://github.com/mateus-luiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-luiz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-luiz&layout=compact&langs_count=7&theme=react"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-luiz&show_icons=true&theme=apprentice &include_all_commits=true&count_private=true&custom_title=Github Stats&hide=issues,contribs"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-luiz&layout=default&langs_count=7&theme=apprentice"/>
 </div>
   
 ##

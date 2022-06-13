@@ -1,8 +1,7 @@
 
 <h1 align="center">Mateus Luiz - Front End Developer</h1>
-
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-luiz&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&custom_title=Github Stats&hide=issues,contribs"/>
+  Tenho 20 anos, iniciei no desenvolvimento em 2021, e amo aprender novas técnologias evoluindo dia após dia.
 </div>
 <br> 
 <div align="center">
@@ -10,6 +9,8 @@
 </div>
 <br>
 <div align="center">
+  <h2>Tenho conhecimento nessas técnologias</h2>
+  
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
   </a>
@@ -31,9 +32,12 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/mateus-luiz/mateus-luiz/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/mateus-luiz/mateus-luiz/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ### 
+<h2 align="center">Minhas redes sociais</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateusl-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
